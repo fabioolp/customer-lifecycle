@@ -60,6 +60,11 @@ Fonte: Serasa Experian
     <td class="tg-0pky">Definir a probabilidade de atividade fraudulenta, <br>tanto na ativação de novos clientes quanto para clientes existentes</td>
     <td class="tg-0pky">Reduzir perdas</td>
   </tr>
+  <tr>
+    <td class="tg-uzvj">Segmentação de Clientes</td>
+    <td class="tg-0pky">Agrupar clientes com base em caracteristicas semelhantes, para que sejam aplicadas campanhas específicas</td>
+    <td class="tg-0pky">Reduzir perdas com campanhas mal direcionadas</td>
+</tr>
 </tbody>
 </table>
 
@@ -68,3 +73,4 @@ Fonte: Serasa Experian
 - Detecção de Fraude
 - Análise de Cartão de Crédito
 - Churn
+- Segmentação de clientes

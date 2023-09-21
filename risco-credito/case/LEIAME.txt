@@ -1,0 +1,4 @@
+O desenvolvimento está separado por etapas, no diretório 'notebooks'.
+O resultado final, com a predição para os clientes da base de teste, está na pasta 'data/4_prediction'.
+As demais tabelas geradas durante o processo também estão na pasta 'data'.
+No diretório 'docs' há uma imagem com o resultado da avaliação do modelo. A explicação dela está no notebook '5_model_backtest'.
